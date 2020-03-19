@@ -1,5 +1,5 @@
 # Wordpress Bruteforcing Tool (XMLRPC)
-Script that can bruteforce wordpress passwords through the XML-RPC endpoint. Use responsibly + enjoy!
+This is a script that bruteforces Wordpress passwords through the XML-RPC endpoint. Use responsibly + enjoy!
 
 # Usage
 ```
